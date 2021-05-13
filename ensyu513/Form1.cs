@@ -20,6 +20,7 @@ namespace ensyu513
         private void button2_Click(object sender, EventArgs e)
         {
             button2.Left = 100;
+            button2.Top = 50;
         }
 
         private void button1_Click(object sender, EventArgs e)
