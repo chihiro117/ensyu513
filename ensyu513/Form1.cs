@@ -19,12 +19,12 @@ namespace ensyu513
 
         private void button2_Click(object sender, EventArgs e)
         {
-            button2.Left = 10;
+            button2.Left = 100;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "痛い！";
+            button1.Text = "痛い！やめて！";
         }
 
         private void button3_Click(object sender, EventArgs e)
